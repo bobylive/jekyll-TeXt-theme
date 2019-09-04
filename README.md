@@ -14,6 +14,8 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 
 **[Change Log](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md)** | **[中文](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
 
+** Add support for Disqus comment.
+
 ## Features
 
 - Responsive
